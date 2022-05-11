@@ -4,6 +4,7 @@
 /dist
 /tmp
 /out-tsc
+/README.md
 
 # dependencies
 /node_modules
